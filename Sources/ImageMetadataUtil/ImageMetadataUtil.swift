@@ -3,7 +3,7 @@ import ImageIO
 import CoreLocation
 import UniformTypeIdentifiers
 
-struct ImageMetadataUtil {
+public struct ImageMetadataUtil {
   /** Read metadata from Data object
 
   ```
